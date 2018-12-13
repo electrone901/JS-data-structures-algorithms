@@ -18,6 +18,13 @@ class SinglyLinkedList
     setByIndex(index, val) // change val node @index 
     insert(val, index) // insert node at index
     reverse() //reverse list
+
+  TIME COMPLEXITY OF Doubly Linked List
+  insertion o(1)
+  removal o(1)
+  searching o(n)
+  accessing o(n)
+  
 */
 
 class Node {
